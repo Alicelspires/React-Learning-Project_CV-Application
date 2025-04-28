@@ -1,0 +1,39 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  background-color: #353b47;
+  color-scheme: light dark;
+}
+main{
+  display:grid;
+  grid-template-columns: 1.3fr 1fr;
+  background-color: #353b47;
+  color: rgba(255, 255, 255, 0.87);
+}
+::-webkit-scrollbar {
+  background: #353b47;
+}
+section{
+  padding:25px 20px;
+}
+.side01{
+  overflow:scroll;
+  height:100vh;
+  overflow-x: hidden;
+}
+.side02{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow:hidden;
+  height:100vh;
+}
+@media(max-width:870px){
+  main{
+    grid-template-columns: 1fr;
+    grid-template-rows: 2fr;
+  }
+  .side02{
+    overflow: visible;
+  }
+}

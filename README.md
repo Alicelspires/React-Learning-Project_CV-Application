@@ -1,2 +1,8 @@
-# React-Learning-Project
-Pratical project presents my development progress with React.js using Vite as the build tool. Showing my grownth  in mastering this technology
+- React-to-print
+- React-Bootstrap
+- Vite
+- React
+- Date fns
+
+[] adicionar seção de cursos
+[] adicionar seção de idiomas
