@@ -26,6 +26,12 @@ Build as part of The Odin Project React Course, that helped me master knowledge 
 - PDF generation (react-to-print)
 - Responsive styling (Bootstrap + CSS)
 
+## Preview
+
+<div align="center">
+<img width="100%" src="./src/assets/CVgeneratorProject.gif" alt="CV application project">
+</div>
+
 ## Tecnologies
 
 Tools            | Description
