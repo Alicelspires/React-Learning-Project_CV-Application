@@ -3,6 +3,8 @@
 
   # React Project: CV Application - The Odin Project
   First React project from The Odin Project course, using different tools to create a fully dynamic CV generator
+  <br>
+  **Site**: https://react-project-cv-application.vercel.app/
 
 </div>
 
