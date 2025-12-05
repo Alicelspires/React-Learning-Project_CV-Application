@@ -6,6 +6,8 @@
   <br>
   **Site**: https://react-project-cv-application.vercel.app/
 
+  ![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-e3b261?style=for-the-badge&logo=theodinproject&logoColor=000000&link=https%3A%2F%2Fwww.theodinproject.com%2Fpaths%2Ffull-stack-javascript%2Fcourses%2Fnodejs)
+
 </div>
 
 ## Main Information
